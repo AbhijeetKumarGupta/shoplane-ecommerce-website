@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shoplane-ecommerce-website/static/css/main.ca9378a7.css",
-    "main.js": "/shoplane-ecommerce-website/static/js/main.21ba419c.js",
+    "main.js": "/shoplane-ecommerce-website/static/js/main.44aeef2d.js",
     "static/js/453.02fd1e8a.chunk.js": "/shoplane-ecommerce-website/static/js/453.02fd1e8a.chunk.js",
     "static/media/3.png": "/shoplane-ecommerce-website/static/media/3.d28aba27a2a9d688a7e2.png",
     "static/media/4.png": "/shoplane-ecommerce-website/static/media/4.c2ca730c3df9f564a3cf.png",
@@ -15,11 +15,11 @@
     "static/media/slick.woff": "/shoplane-ecommerce-website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/shoplane-ecommerce-website/index.html",
     "main.ca9378a7.css.map": "/shoplane-ecommerce-website/static/css/main.ca9378a7.css.map",
-    "main.21ba419c.js.map": "/shoplane-ecommerce-website/static/js/main.21ba419c.js.map",
+    "main.44aeef2d.js.map": "/shoplane-ecommerce-website/static/js/main.44aeef2d.js.map",
     "453.02fd1e8a.chunk.js.map": "/shoplane-ecommerce-website/static/js/453.02fd1e8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca9378a7.css",
-    "static/js/main.21ba419c.js"
+    "static/js/main.44aeef2d.js"
   ]
 }
