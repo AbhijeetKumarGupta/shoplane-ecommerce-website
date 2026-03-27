@@ -1,32 +1,25 @@
 {
   "files": {
-    "main.css": "/Shoplane_React/static/css/main.2bd2c543.chunk.css",
-    "main.js": "/Shoplane_React/static/js/main.5cd46445.chunk.js",
-    "main.js.map": "/Shoplane_React/static/js/main.5cd46445.chunk.js.map",
-    "runtime-main.js": "/Shoplane_React/static/js/runtime-main.e938d3ef.js",
-    "runtime-main.js.map": "/Shoplane_React/static/js/runtime-main.e938d3ef.js.map",
-    "static/css/2.a6f5d170.chunk.css": "/Shoplane_React/static/css/2.a6f5d170.chunk.css",
-    "static/js/2.06d590d6.chunk.js": "/Shoplane_React/static/js/2.06d590d6.chunk.js",
-    "static/js/2.06d590d6.chunk.js.map": "/Shoplane_React/static/js/2.06d590d6.chunk.js.map",
-    "static/js/3.04ac2b56.chunk.js": "/Shoplane_React/static/js/3.04ac2b56.chunk.js",
-    "static/js/3.04ac2b56.chunk.js.map": "/Shoplane_React/static/js/3.04ac2b56.chunk.js.map",
-    "index.html": "/Shoplane_React/index.html",
-    "static/css/2.a6f5d170.chunk.css.map": "/Shoplane_React/static/css/2.a6f5d170.chunk.css.map",
-    "static/css/main.2bd2c543.chunk.css.map": "/Shoplane_React/static/css/main.2bd2c543.chunk.css.map",
-    "static/js/2.06d590d6.chunk.js.LICENSE.txt": "/Shoplane_React/static/js/2.06d590d6.chunk.js.LICENSE.txt",
-    "static/media/1.9007d84c.png": "/Shoplane_React/static/media/1.9007d84c.png",
-    "static/media/2.88dc38c8.png": "/Shoplane_React/static/media/2.88dc38c8.png",
-    "static/media/3.d28aba27.png": "/Shoplane_React/static/media/3.d28aba27.png",
-    "static/media/4.c2ca730c.png": "/Shoplane_React/static/media/4.c2ca730c.png",
-    "static/media/confirmImg.2027e955.png": "/Shoplane_React/static/media/confirmImg.2027e955.png",
-    "static/media/slick-theme.css": "/Shoplane_React/static/media/slick.c94f7671.ttf",
-    "static/media/user.e399cfc1.jpg": "/Shoplane_React/static/media/user.e399cfc1.jpg"
+    "main.css": "/shoplane-ecommerce-website/static/css/main.ca9378a7.css",
+    "main.js": "/shoplane-ecommerce-website/static/js/main.21ba419c.js",
+    "static/js/453.02fd1e8a.chunk.js": "/shoplane-ecommerce-website/static/js/453.02fd1e8a.chunk.js",
+    "static/media/3.png": "/shoplane-ecommerce-website/static/media/3.d28aba27a2a9d688a7e2.png",
+    "static/media/4.png": "/shoplane-ecommerce-website/static/media/4.c2ca730c3df9f564a3cf.png",
+    "static/media/1.png": "/shoplane-ecommerce-website/static/media/1.9007d84cdad1aa1ff774.png",
+    "static/media/2.png": "/shoplane-ecommerce-website/static/media/2.88dc38c8c96ee41febd4.png",
+    "static/media/user.jpg": "/shoplane-ecommerce-website/static/media/user.e399cfc1b6b93328fba4.jpg",
+    "static/media/confirmImg.png": "/shoplane-ecommerce-website/static/media/confirmImg.2027e95560d866ca71a0.png",
+    "static/media/slick.svg": "/shoplane-ecommerce-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/shoplane-ecommerce-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/shoplane-ecommerce-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/shoplane-ecommerce-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/shoplane-ecommerce-website/index.html",
+    "main.ca9378a7.css.map": "/shoplane-ecommerce-website/static/css/main.ca9378a7.css.map",
+    "main.21ba419c.js.map": "/shoplane-ecommerce-website/static/js/main.21ba419c.js.map",
+    "453.02fd1e8a.chunk.js.map": "/shoplane-ecommerce-website/static/js/453.02fd1e8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e938d3ef.js",
-    "static/css/2.a6f5d170.chunk.css",
-    "static/js/2.06d590d6.chunk.js",
-    "static/css/main.2bd2c543.chunk.css",
-    "static/js/main.5cd46445.chunk.js"
+    "static/css/main.ca9378a7.css",
+    "static/js/main.21ba419c.js"
   ]
 }
