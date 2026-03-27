@@ -88,13 +88,13 @@ class Home extends Component {
                         <Link
                           className="card"
                           id={item.id}
-                          to="/Shoplane_React/product"
+                          to="/shoplane-ecommerce-website/product"
                           key={item.id}
                           onClick={() => this.props.setSelected(item)}
                         >
                           <Card {...item} />
                         </Link>
-                      )
+                      ),
                   )}
                 </div>
               </section>
@@ -107,14 +107,14 @@ class Home extends Component {
                         <Link
                           className="card"
                           id={item.id}
-                          to="/Shoplane_React/product"
+                          to="/shoplane-ecommerce-website/product"
                           key={item.id}
                           onClick={() => this.props.setSelected(item)}
                         >
                           {" "}
                           <Card {...item} />
                         </Link>
-                      )
+                      ),
                   )}
                 </div>
               </section>

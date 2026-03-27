@@ -8,22 +8,22 @@ class Topbar extends Component {
     return (
       <header>
         <div id="navMenu">
-          <Link id="logo" to="/Shoplane_React/">
+          <Link id="logo" to="/shoplane-ecommerce-website/">
             <span>SHOP</span>LANE
           </Link>
           <div id="productBrowsingMenu">
-            <Link className="pbMenuOption" to="/Shoplane_React/">
+            <Link className="pbMenuOption" to="/shoplane-ecommerce-website/">
               Home
             </Link>
             <Link
               className="pbMenuOption"
-              to="/Shoplane_React/#clothing-section"
+              to="/shoplane-ecommerce-website/#clothing-section"
             >
               Clothings
             </Link>
             <Link
               className="pbMenuOption"
-              to="/Shoplane_React/#accessory-section"
+              to="/shoplane-ecommerce-website/#accessory-section"
             >
               Accessories
             </Link>
@@ -32,7 +32,7 @@ class Topbar extends Component {
             <i className="fas fa-search" aria-hidden="true" />
             <div id="cart-wrapper">
               <p id="cart-count">{this.props.cart.length}</p>
-              <Link to="/Shoplane_React/checkout">
+              <Link to="/shoplane-ecommerce-website/checkout">
                 <i className="fa fa-shopping-cart" aria-hidden="true"></i>
               </Link>
             </div>

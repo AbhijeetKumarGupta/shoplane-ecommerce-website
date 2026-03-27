@@ -72,7 +72,7 @@ class Checkout extends Component {
                 onClick={() => {
                   this.placeOrder(this.props.clearCart);
                 }}
-                to="/Shoplane_React/orderPlaced"
+                to="/shoplane-ecommerce-website/orderPlaced"
               >
                 Place Order
               </Link>

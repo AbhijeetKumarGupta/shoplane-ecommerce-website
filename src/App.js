@@ -14,10 +14,19 @@ class App extends Component {
       <BrowserRouter>
         <Topbar />
         <Switch>
-          <Route path="/Shoplane_React/" exact component={Home} />
-          <Route path="/Shoplane_React/product" component={Product} />
-          <Route path="/Shoplane_React/checkout" component={Checkout} />
-          <Route path="/Shoplane_React/orderPlaced" component={OrderPlaced} />
+          <Route path="/shoplane-ecommerce-website/" exact component={Home} />
+          <Route
+            path="/shoplane-ecommerce-website/product"
+            component={Product}
+          />
+          <Route
+            path="/shoplane-ecommerce-website/checkout"
+            component={Checkout}
+          />
+          <Route
+            path="/shoplane-ecommerce-website/orderPlaced"
+            component={OrderPlaced}
+          />
         </Switch>
         <Footer />
       </BrowserRouter>
