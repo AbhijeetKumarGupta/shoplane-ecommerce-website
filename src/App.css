@@ -1,4 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&display=swap");
+html,
+body,
+#root {
+  height: 100%;
+}
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
 * {
   margin: 0;
   padding: 0;
@@ -13,6 +23,9 @@ main {
 }
 a {
   text-decoration: none;
+}
+.page-content {
+  flex: 1;
 }
 /*  */
 #navMenu {
@@ -520,16 +533,24 @@ footer ul li h3 {
 
 @keyframes animate {
   0% {
-    box-shadow: 0 0 0 0 rgba(0, 150, 136, 0.7), 0 0 0 0 rgba(0, 150, 136, 0.7);
+    box-shadow:
+      0 0 0 0 rgba(0, 150, 136, 0.7),
+      0 0 0 0 rgba(0, 150, 136, 0.7);
   }
   40% {
-    box-shadow: 0 0 0 50px rgba(0, 150, 136, 0), 0 0 0 0 rgba(0, 150, 136, 0.7);
+    box-shadow:
+      0 0 0 50px rgba(0, 150, 136, 0),
+      0 0 0 0 rgba(0, 150, 136, 0.7);
   }
   80% {
-    box-shadow: 0 0 0 50px rgba(0, 150, 136, 0), 0 0 0 30px rgba(0, 150, 136, 0);
+    box-shadow:
+      0 0 0 50px rgba(0, 150, 136, 0),
+      0 0 0 30px rgba(0, 150, 136, 0);
   }
   100% {
-    box-shadow: 0 0 0 0 rgba(0, 150, 136, 0), 0 0 0 30px rgba(0, 150, 136, 0);
+    box-shadow:
+      0 0 0 0 rgba(0, 150, 136, 0),
+      0 0 0 30px rgba(0, 150, 136, 0);
   }
 }
 @media screen and (max-width: 425px) {
@@ -554,18 +575,24 @@ footer ul li h3 {
   }
   @keyframes animate {
     0% {
-      box-shadow: 0 0 0 0 rgba(0, 150, 136, 0.7), 0 0 0 0 rgba(0, 150, 136, 0.7);
+      box-shadow:
+        0 0 0 0 rgba(0, 150, 136, 0.7),
+        0 0 0 0 rgba(0, 150, 136, 0.7);
     }
     40% {
-      box-shadow: 0 0 0 30px rgba(0, 150, 136, 0),
+      box-shadow:
+        0 0 0 30px rgba(0, 150, 136, 0),
         0 0 0 0 rgba(0, 150, 136, 0.7);
     }
     80% {
-      box-shadow: 0 0 0 30px rgba(0, 150, 136, 0),
+      box-shadow:
+        0 0 0 30px rgba(0, 150, 136, 0),
         0 0 0 15px rgba(0, 150, 136, 0);
     }
     100% {
-      box-shadow: 0 0 0 0 rgba(0, 150, 136, 0), 0 0 0 15px rgba(0, 150, 136, 0);
+      box-shadow:
+        0 0 0 0 rgba(0, 150, 136, 0),
+        0 0 0 15px rgba(0, 150, 136, 0);
     }
   }
 }

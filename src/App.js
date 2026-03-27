@@ -13,21 +13,23 @@ class App extends Component {
     return (
       <BrowserRouter>
         <Topbar />
-        <Switch>
-          <Route path="/shoplane-ecommerce-website/" exact component={Home} />
-          <Route
-            path="/shoplane-ecommerce-website/product"
-            component={Product}
-          />
-          <Route
-            path="/shoplane-ecommerce-website/checkout"
-            component={Checkout}
-          />
-          <Route
-            path="/shoplane-ecommerce-website/orderPlaced"
-            component={OrderPlaced}
-          />
-        </Switch>
+        <div className="page-content">
+          <Switch>
+            <Route path="/shoplane-ecommerce-website/" exact component={Home} />
+            <Route
+              path="/shoplane-ecommerce-website/product"
+              component={Product}
+            />
+            <Route
+              path="/shoplane-ecommerce-website/checkout"
+              component={Checkout}
+            />
+            <Route
+              path="/shoplane-ecommerce-website/orderPlaced"
+              component={OrderPlaced}
+            />
+          </Switch>
+        </div>
         <Footer />
       </BrowserRouter>
     );
